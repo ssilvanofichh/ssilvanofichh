@@ -23,8 +23,7 @@
 
 ## Donate
 
-**If you want to donate, click on the button**
-<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Buy Me-A Coffee-yellow?style=for-the-badge&logo=github"></a>
+**If you want to donate, message me on discord!**
 ------
 
 #### I Recommend To look:
